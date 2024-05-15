@@ -11063,11 +11063,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Task\\PaymentAPI\\PaymentAPI\\PaymentAPI.csproj",
+      "projectUniqueName": "D:\\New folder (3)\\Luftborn\\PaymentAPI\\PaymentAPI\\PaymentAPI.csproj",
       "projectName": "PaymentAPI",
-      "projectPath": "D:\\Task\\PaymentAPI\\PaymentAPI\\PaymentAPI.csproj",
+      "projectPath": "D:\\New folder (3)\\Luftborn\\PaymentAPI\\PaymentAPI\\PaymentAPI.csproj",
       "packagesPath": "C:\\Users\\HPUSER\\.nuget\\packages\\",
-      "outputPath": "D:\\Task\\PaymentAPI\\PaymentAPI\\obj\\",
+      "outputPath": "D:\\New folder (3)\\Luftborn\\PaymentAPI\\PaymentAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HPUSER\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,6 +13,6 @@
 
   }
 
-  ::ng-deep .cdk-overlay-pane{
+  /* ::ng-deep .cdk-overlay-container{
     position: sticky !important;
-  }
+  } */
